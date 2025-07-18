@@ -1,6 +1,9 @@
+# Machine Translation from german to english
+
 A simple German to English Translator App
 
-<img width="1851" height="992" alt="image" src="https://github.com/user-attachments/assets/ce32653c-73cc-4140-aab0-9d7d3e508a7f" />
+<img width="1858" height="1002" alt="image" src="https://github.com/user-attachments/assets/308f6691-4a61-45f4-ba45-c24a3485d9e8" />
+
 
 # How to run
 
